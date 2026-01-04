@@ -35,7 +35,7 @@
 ## 📫 Get in Touch
 
 * 📧 Email: [aryantiwari91000@gmail.com](mailto:aryantiwari91000@gmail.com)  
-* 📞 Phone: +91 9911446312  
+* 📞 Phone: +91 8982791000
 * 🔗 LinkedIn: [linkedin.com/in/aryan-tiwari](https://www.linkedin.com/in/aryan-tiwari-2816271a6)
 
 ---
