@@ -22,7 +22,7 @@
  `Express.js` · `Sequalize` · `Nest.js` · `Hapi.js`
 
 **Cloud & DevOps**  
-`Azure` · `Docker` · `GitHub Actions` · `AKS` · `ADX`
+`Azure` · `Docker` · `GitHub Actions` · `AKS` · `ADX` · `ELK Stack`
 
 **Databases**  
 `MySQL` · `PostgreSQL` · `Redis` · `MongoDB` · `Aerospike`
