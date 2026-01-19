@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hi, I'm <span style="font-size: 2rem;">Aryan Tiwari</span></h1>
 
-<p align="center"><strong>Software Engineer · Backend Specialist · Cloud-native Architect</strong></p>
+<p align="center"><strong>Software Engineer · Backend Specialist</strong></p>
 
 ---
 
@@ -9,7 +9,6 @@
 
 * 🔧 Lead backend development using **Node.js**
 * ☁️ Build and deploy cloud-native applications on **Azure**
-* 🚀 Guide teams on engineering best practices, code quality, and scalable design
 
 ---
 
