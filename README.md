@@ -7,7 +7,7 @@
 
 ## 💼 What I Do
 
-* 🔧 Lead backend development using **Node.js**
+* 🔧 Lead backend development using **Node.js** and **Go**
 * ☁️ Build and deploy cloud-native applications on **Azure**
 
 ---
@@ -15,10 +15,10 @@
 ## 🚀 Tech Stack
 
 **Languages**  
- `JavaScript` · `TypeScript` · `PostgreSQL`· `Python`· `C++`
+ `JavaScript` · `TypeScript` · `Go` · `PostgreSQL`· `Python`· `C++`
 
 **Frameworks & Libraries**  
- `Express.js` · `Sequalize` · `Nest.js` · `Hapi.js`
+ `Express.js` · `Sequalize` · `Nest.js` · `Hapi.js` · `echo` · `gin`
 
 **Cloud & DevOps**  
 `Azure` · `Docker` · `GitHub Actions` · `AKS` · `ADX` · `ELK Stack`
