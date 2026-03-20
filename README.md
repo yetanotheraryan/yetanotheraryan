@@ -30,7 +30,7 @@
 `Prisma` · `Cursor` · `Postman` · `Vercel`
 
 ---
-
+flutter dart go nodejs firebase mongodb git aws gitlab figma postman
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yetanotheraryan&show_icons=true)
 
 ---
