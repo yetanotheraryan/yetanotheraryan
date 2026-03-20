@@ -31,6 +31,10 @@
 
 ---
 
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yetanotheraryan&show_icons=true)
+
+---
+
 ## 📫 Get in Touch
 
 * 📧 Email: [aryantiwari91000@gmail.com](mailto:aryantiwari91000@gmail.com)  
