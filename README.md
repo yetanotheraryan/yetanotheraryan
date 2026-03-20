@@ -59,6 +59,11 @@ Senior Software Engineer with **3+ years of experience** designing and scaling *
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
 
+### 🌳📦 DSA
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" width="40"/>
+</p>
+
 ---
 
 ## 📦 Open Source
