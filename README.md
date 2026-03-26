@@ -63,22 +63,16 @@ My work sits at the intersection of **distributed systems**, **event-driven arch
 
 ## Open source
 
-### [relax-json](https://github.com/yetanotheraryan/relax-json)
-Safe JSON parsing that never throws — built for developer experience, making `JSON.parse` failures graceful without try-catch boilerplate everywhere.
-
 ### [schemaQL](https://github.com/yetanotheraryan/schemaql)
 A VS Code extension that turns Sequelize model changes into SQL migration statements. Run one command, get your `CREATE TABLE` or `ALTER TABLE` — generated from your git diff.
 
----
 
-## GitHub stats
+### [relax-json](https://github.com/yetanotheraryan/relax-json)
+Safe JSON parsing that never throws — built for developer experience, making `JSON.parse` failures graceful without try-catch boilerplate everywhere.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yetanotheraryan&show_icons=true&hide_border=true&theme=default&title_color=0f172a&icon_color=3178C6&text_color=374151&bg_color=ffffff" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yetanotheraryan&layout=compact&hide_border=true&theme=default&title_color=0f172a&text_color=374151&bg_color=ffffff" height="160"/>
-</div>
 
 ---
+
 
 <div align="center">
   <sub>I build systems that don't break under pressure.</sub>
