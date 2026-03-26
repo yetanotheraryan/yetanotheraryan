@@ -1,96 +1,85 @@
+<div align="center">
 
+# Aryan Tiwari
 
-<h1 align="center">👋 Hi, I'm Aryan Tiwari</h1>
+**Senior Software Engineer — Backend & Distributed Systems**
 
-<p align="center">
-  <strong>Senior Software Engineer · Backend & Distributed Systems</strong>
-</p>
-<p align="center">
-  Building high-scale fintech systems · Microservices · Performance-first engineering
-</p>
+Designing fintech infrastructure that moves money reliably at scale.
+Microservices · Event-driven architecture · Performance-first engineering
 
----
-## 🧠 About Me
+[![Email](https://img.shields.io/badge/Email-aryantiwari91000@gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=white)](mailto:aryantiwari91000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan%20Tiwari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-tiwari-2816271a6)
 
-Senior Software Engineer with **3+ years of experience** designing and scaling **fintech-grade systems** handling high-volume transactions and payment workflows.
-
-- ⚡ Built **distributed microservices** handling production traffic  
-- 🏗️ Strong in **event-driven architecture & system design**  
-- 📈 Focused on **performance, reliability & scalability at scale**  
-- 🔐 Experience in **secure financial systems & data integrity**  
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## About
 
-### ⚙️ Core
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-</p>
+I'm a backend engineer with 3+ years building fintech-grade systems — the kind that process high-volume transactions and can't afford downtime.
 
-### 🧩 Backend & Frameworks
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" width="40"/>
-</p>
+My work sits at the intersection of **distributed systems**, **event-driven architecture**, and **performance engineering**. I care deeply about correctness, observability, and building things that hold up under real load.
 
-### 🗄️ Databases & Storage
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/>
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-</p>
-
-### 🛠️ Tools
-<p>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-</p>
-
-### 📦 Data Structures and Algorithms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" width="40"/>
-</p>
+- Designed and scaled **distributed microservices** in production fintech environments
+- Built **event-driven payment workflows** with strict data integrity guarantees
+- Focused on **latency, reliability, and fault tolerance** at every layer of the stack
+- Experienced in **secure financial systems**, compliance-sensitive data flows, and audit trails
 
 ---
 
-## 📦 Open Source
+## Tech
 
-- 🚀 Creator of **relax-json** → Safe JSON parsing without crashes  
-- 🧠 Focused on **developer experience utilities**  
-- 📈 Actively contributing to backend & infra tooling  
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Backend & Frameworks**
+
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+
+**Databases & Storage**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Tooling**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## Open source
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yetanotheraryan&show_icons=true&theme=radical" />
-</p>
+### [relax-json](https://github.com/yetanotheraryan/relax-json)
+Safe JSON parsing that never throws — built for developer experience, making `JSON.parse` failures graceful without try-catch boilerplate everywhere.
 
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:aryantiwari91000@gmail.com">📧 Email</a> ·
-  <a href="https://www.linkedin.com/in/aryan-tiwari-2816271a6">🔗 LinkedIn</a>
-</p>
+### [schemaQL](https://github.com/yetanotheraryan/schemaql)
+A VS Code extension that turns Sequelize model changes into SQL migration statements. Run one command, get your `CREATE TABLE` or `ALTER TABLE` — generated from your git diff.
 
 ---
 
-<p align="center">
-  <em>“I build systems that don’t break under pressure.”</em>
-</p>
+## GitHub stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yetanotheraryan&show_icons=true&hide_border=true&theme=default&title_color=0f172a&icon_color=3178C6&text_color=374151&bg_color=ffffff" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yetanotheraryan&layout=compact&hide_border=true&theme=default&title_color=0f172a&text_color=374151&bg_color=ffffff" height="160"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>I build systems that don't break under pressure.</sub>
+</div>
