@@ -14,10 +14,10 @@ Microservices · Event-driven architecture · Performance-first engineering
 
 ---
 <!--- 
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+![Metrics](./metrics.svg)
 
 -->
-![Metrics](./metrics.svg)
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 ---
