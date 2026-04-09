@@ -67,8 +67,8 @@ My work sits at the intersection of **distributed systems**, **event-driven arch
 A VS Code extension that turns Sequelize model changes into SQL migration statements. Run one command, get your `CREATE TABLE` or `ALTER TABLE` — generated from your git diff.
 
 
-### [relax-json](https://github.com/yetanotheraryan/relax-json)
-Safe JSON parsing that never throws — built for developer experience, making `JSON.parse` failures graceful without try-catch boilerplate everywhere.
+### [Coldstart](https://github.com/yetanotheraryan/coldstart)
+Zero-dependency Node.js startup profiler. Traces require() and ESM imports to build a module load tree with timing data.
 
 
 ---
