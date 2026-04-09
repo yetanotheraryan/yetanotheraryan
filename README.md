@@ -14,6 +14,10 @@ Microservices · Event-driven architecture · Performance-first engineering
 
 ---
 
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
 ## About
 
 I'm a backend engineer with 3+ years building fintech-grade systems — the kind that process high-volume transactions and can't afford downtime.
